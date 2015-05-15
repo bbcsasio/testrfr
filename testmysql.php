@@ -5,8 +5,4 @@ if (!$link) {
 } 
 echo 'Connection OK'; mysql_close($link); 
 echo 'thushali rathnayake Gayan chamara';
-echo 'thushali rathnayake Gayan chamara';
-echo 'thushali rathnayake Gayan chamara';
-echo 'thushali rathnayake Gayan chamara';
-echo 'thushali rathnayake Gayan chamara';
 ?> 
