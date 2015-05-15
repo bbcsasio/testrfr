@@ -4,5 +4,5 @@ if (!$link) {
 	die('Could not connect to MySQL: ' . mysql_error()); 
 } 
 echo 'Connection OK'; mysql_close($link); 
-echo 'thushali rathnayake';
+echo 'thushali rathnayake Gayan chamara';
 ?> 
